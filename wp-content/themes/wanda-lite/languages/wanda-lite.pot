@@ -1,0 +1,125 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WIP\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-12-07 21:16+0100\n"
+"PO-Revision-Date: 2015-09-11 19:05+0100\n"
+"Last-Translator: Alessandro Vellutini <vellutini@hotmail.it>\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;gettext;gettext_noop;_e;esc_html_e;esc_html__;"
+"esc_html_x:1,2c;esc_attr__;esc_attr_e;_n_noop:1,2;_n_noop;_n\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: core/templates/homepage-slider.php:81
+msgid "Written by "
+msgstr ""
+
+#: core/templates/homepage-slider.php:81
+msgid " on "
+msgstr ""
+
+#: functions.php:45
+msgid "Banner widget area"
+msgstr ""
+
+#: functions.php:47
+msgid ""
+"This widget area will be shown near the logo (Recommended for the image "
+"widget)."
+msgstr ""
+
+#: functions.php:206
+msgid "Default image"
+msgstr ""
+
+#: functions.php:251
+msgid "Home Blog Layout"
+msgstr ""
+
+#: functions.php:252
+msgid ""
+"If you&#39;ve set the latest articles, for the homepage, choose a layout."
+msgstr ""
+
+#: functions.php:254 functions.php:277 functions.php:300
+msgid "Full Width"
+msgstr ""
+
+#: functions.php:255 functions.php:278 functions.php:301
+msgid "Left Sidebar"
+msgstr ""
+
+#: functions.php:256 functions.php:279 functions.php:302
+msgid "Right Sidebar"
+msgstr ""
+
+#: functions.php:257 functions.php:280 functions.php:303
+msgid "Masonry"
+msgstr ""
+
+#: functions.php:274
+msgid "Category Layout"
+msgstr ""
+
+#: functions.php:275
+msgid "Select a layout for category pages."
+msgstr ""
+
+#: functions.php:297
+msgid "Search Layout"
+msgstr ""
+
+#: functions.php:298
+msgid "Select a layout for the search section."
+msgstr ""
+
+#: functions.php:320
+msgid "Columns"
+msgstr ""
+
+#: functions.php:321
+msgid "Select the number of columns for the homepage slideshow."
+msgstr ""
+
+#: functions.php:323
+msgid "1"
+msgstr ""
+
+#: functions.php:324
+msgid "2"
+msgstr ""
+
+#: functions.php:325
+msgid "3"
+msgstr ""
+
+#: functions.php:340 functions.php:341
+msgid "Header attachment"
+msgstr ""
+
+#: functions.php:343
+msgid "Initial"
+msgstr ""
+
+#: functions.php:344
+msgid "Scroll with Page"
+msgstr ""
+
+#: header.php:22
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:106
+msgid "Menu"
+msgstr ""
+
+#~ msgid "Category"
+#~ msgstr "Categorisa"
